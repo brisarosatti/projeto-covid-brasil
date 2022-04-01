@@ -1,3 +1,3 @@
-# DS-ML
+# Projeto Análise de óbitos de Covid 
 
-Projetos de Data Science desenvolvidos durante o mini curso da Lets Code para concorrer à uma bolsa de estudos.
+Projeto de Data Science desenvolvido durante o mini curso da Lets Code para concorrer à uma bolsa de estudos do Santender Becas.
